@@ -2,4 +2,4 @@ email in contact page
 Finish book pages
 Text for contact forms
 Font Josefin Sans - https://try.mekshq.com/u/prfiu/
-DNS
+Analytics
