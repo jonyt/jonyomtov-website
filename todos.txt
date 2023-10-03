@@ -1,1 +1,4 @@
-email in contact page
+
+Fix mobile view
+Submit to Google for crawling
+Twitter and FB meta tags
